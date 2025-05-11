@@ -9,19 +9,20 @@
 </p>
 
 ### I am a Intern Software Engineer at Lockheed Martin
-- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🔭 I’m currently working on my Portfolio Website
 - 🌱 I’m currently learning Low Level Development.
 - 🥅 2025 Goals: Contribute to Open Source projects
-- 📬 How to reach me: [Message me on LinkedIn!](https://www.linkedin.com/in/louis-harshman/) or send a email <a href="mailto:lewisharshman1@gmail.com"> here </a>
+- 📬 How to reach me: Send a email <a href="mailto:lewisharshman1@gmail.com"> here </a>
+- 📶 Connect with me on [LinkedIn!](https://www.linkedin.com/in/louis-harshman/)\
+- Thanks for visiting my page.
 
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis-Ladd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Louis-Ladd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis-Ladd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" style="height: 195px;" bg_color=#808080/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Louis-Ladd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw" bg_color=#808080/>
+    </td>
+  </tr>
+</table>
