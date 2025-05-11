@@ -1,7 +1,7 @@
 # Louis-Ladd
 
 <p>
-  <h1 align="center"><b>Hello there, I'm Louis 🧍</b></h1>
+  <h1 align="center"><b>Hey, I'm Louis 🧍</b></h1>
 </p>
 
 <p>
