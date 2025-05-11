@@ -8,6 +8,7 @@
   <h2 align="center"><b>"The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - Tim Berners-Lee</b></h2>
 </p>
 
+<div style="display:flex;">
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Louis-Ladd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="adam-pw"
@@ -17,3 +18,4 @@ bg_color=#808080/>
 src="https://github-readme-stats.vercel.app/api?username=Louis-Ladd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
 alt="adam-pw"
 bg_color=#808080/>
+</div>
