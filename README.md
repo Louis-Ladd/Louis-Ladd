@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - Tim Berners-Lee</b></h4>
+  <h2 align="center"><b>"The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - Tim Berners-Lee</b></h2>
 </p>
 
 <img
