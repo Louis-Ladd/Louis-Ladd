@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Low Level Development.
 - 🥅 2025 Goals: Contribute to Open Source projects
-- 📬 How to reach me: [Message me on LinkedIn!][https://www.linkedin.com/in/louis-harshman/]
+- 📬 How to reach me: [Message me on LinkedIn!](https://www.linkedin.com/in/louis-harshman/) or send a email <a href="mailto:lewisharshman1@gmail.com"> here </a>
 
 
 <img
