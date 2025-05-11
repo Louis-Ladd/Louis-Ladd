@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Low Level Development.
 - 🥅 2025 Goals: Contribute to Open Source projects
 - 📬 How to reach me: Send a email <a href="mailto:lewisharshman1@gmail.com"> here </a>
-- 📶 Connect with me on [LinkedIn!](https://www.linkedin.com/in/louis-harshman/)\
+- 📶 Connect with me on [LinkedIn!](https://www.linkedin.com/in/louis-harshman/)
 - Thanks for visiting my page.
 
 <table align="center">
