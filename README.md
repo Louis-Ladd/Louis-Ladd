@@ -8,9 +8,9 @@
   <h2 align="center"><b>"The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - Tim Berners-Lee</b></h2>
 </p>
 
-### I am a Intern Software Engineer at Lockheed Martin
-- 🔭 I’m currently working on my Portfolio Website
-- 🌱 I’m currently learning Low Level Development.
+### I am an Intern Software Engineer at Lockheed Martin
+- 🔭 I’m currently working on my Portfolio Website.
+- 🌱 I’m currently learning Low-Level Development.
 - 🥅 2025 Goals: Contribute to Open Source projects
 - 📬 How to reach me: Send a email <a href="mailto:lewisharshman1@gmail.com"> here </a>
 - 📶 Connect with me on [LinkedIn!](https://www.linkedin.com/in/louis-harshman/)
